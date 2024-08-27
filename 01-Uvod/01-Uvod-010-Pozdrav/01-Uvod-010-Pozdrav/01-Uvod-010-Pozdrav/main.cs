@@ -5,5 +5,6 @@ class MainClass {
         Console.WriteLine ("Vlož své jméno :");
        string jmeno = Console.ReadLine();
         Console.WriteLine ("Ať žije " + jmeno + "!");
+        djnfajnfajklrnfkajrnfkjašrne
     }
 }
